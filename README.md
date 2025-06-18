@@ -10,14 +10,14 @@
   |     |-- Strings
   |     |-- Linked_Lists
   |     |-- Stacks
-  |    └─ Queues
+  |     └─ Queues
   |
   |-- Advanced_Data_Structures
   |     |-- Trees
   |     |     |-- Binary_Trees
   |     |     |-- Binary_Search_Trees
   |     |     |-- AVL_Trees
-  |     |    └─ B-Trees
+  |     |     └─ B-Trees
   |     |
   |     |-- Graphs
   |     |     |-- Graph_Representation
@@ -53,15 +53,15 @@
   |     |-- Backtracking
   |     |-- Sliding_Window_Technique
   |     |-- Two_Pointer_Technique
-  |    └─ Divide_and_Conquer_Optimization
+  |     └─ Divide_and_Conquer_Optimization
   |           |-- Merge_Sort_Tree
-  |          └─ Persistent_Segment_Tree
+  |           └─ Persistent_Segment_Tree
   |
   |-- Searching_Algorithms
   |     |-- Linear_Search
   |     |-- Binary_Search
   |     |-- Depth-First_Search
-  |    └─ Breadth-First_Search
+  |     └─ Breadth-First_Search
   |
   |-- Sorting_Algorithms
   |     |-- Bubble_Sort
