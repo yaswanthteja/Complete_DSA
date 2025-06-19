@@ -22,7 +22,7 @@
   |     |-- Graphs
   |     |     |-- Graph_Representation
   |     |     |      |- Adjacency_Matrix
-  |     |     |     └ Adjacency_List
+  |     |     |      └ Adjacency_List
   |     |     |
   |     |     |-- Depth-First_Search
   |     |     |-- Breadth-First_Search
@@ -30,20 +30,20 @@
   |     |     |      |- Dijkstra's_Algorithm
   |     |     |     └ Bellman-Ford_Algorithm
   |     |     |
-  |     |    └─ Minimum_Spanning_Tree
+  |     |     └─ Minimum_Spanning_Tree
   |     |            |- Prim's_Algorithm
-  |     |           └ Kruskal's_Algorithm
+  |     |            └ Kruskal's_Algorithm
   |     |
   |     |-- Heaps
   |     |     |-- Min_Heap
   |     |     |-- Max_Heap
-  |     |    └─ Heap_Sort
+  |     |     └─ Heap_Sort
   |     |
   |     |-- Hash_Tables
   |     |-- Disjoint_Set_Union
   |     |-- Trie
   |     |-- Segment_Tree
-  |    └─ Fenwick_Tree
+  |     └─ Fenwick_Tree
   |
   |-- Algorithmic_Paradigms
   |     |-- Brute_Force
@@ -69,14 +69,14 @@
   |     |-- Insertion_Sort
   |     |-- Merge_Sort
   |     |-- Quick_Sort
-  |    └─ Heap_Sort
+  |     └─ Heap_Sort
   |
   |-- Graph_Algorithms
   |     |-- Depth-First_Search
   |     |-- Breadth-First_Search
   |     |-- Topological_Sort
   |     |-- Strongly_Connected_Components
-  |    └─ Articulation_Points_and_Bridges
+  |     └─ Articulation_Points_and_Bridges
   |
   |-- Dynamic_Programming
   |     |-- Introduction_to_DP
@@ -85,29 +85,29 @@
   |     |-- Longest_Increasing_Subsequence
   |     |-- Knapsack_Problem
   |     |-- Matrix_Chain_Multiplication
-  |    └─ Dynamic_Programming_on_Trees
+  |     └─ Dynamic_Programming_on_Trees
   |
   |-- Mathematical_and_Bit_Manipulation_Algorithms
   |     |-- Prime_Numbers_and_Sieve_of_Eratosthenes
   |     |-- Greatest_Common_Divisor
   |     |-- Least_Common_Multiple
   |     |-- Modular_Arithmetic
-  |    └─ Bit_Manipulation_Tricks
+  |     └─ Bit_Manipulation_Tricks
   |
   |-- Advanced_Topics
   |     |-- Trie-based_Algorithms
   |     |     |-- Auto-completion
-  |     |    └─ Spell_Checker
+  |     |     └─ Spell_Checker
   |     |
   |     |-- Suffix_Trees_and_Arrays
   |     |-- Computational_Geometry
   |     |-- Number_Theory
   |     |     |-- Euler's_Totient_Function
-  |     |    └─ Mobius_Function
+  |     |     └─ Mobius_Function
   |     |
   |    └─ String_Algorithms
   |            |-- KMP_Algorithm
-  |           └─ Rabin-Karp_Algorithm
+  |            └─ Rabin-Karp_Algorithm
   |
   |-- OnlinePlatforms
   |     |-- LeetCode
